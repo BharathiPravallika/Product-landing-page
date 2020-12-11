@@ -5,4 +5,6 @@ This is a Product landing page. I have developed this project using html and css
 
 You can try my code!</h1>
 
+
+<h3>In this project I have used two images, one is for Background image and another one is for logo.</h3>
 <b>Happy designing!!</b>
