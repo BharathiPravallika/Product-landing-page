@@ -1,0 +1,76 @@
+body{
+	color:   #DE3163;
+}
+
+a.main-button{
+	color: white;
+	text-decoration: none;
+	background-color:   #DE3163;
+	margin-top: 80px;
+	padding: 15px;
+	border-radius: 0.25rem;
+	display: inline-block;
+}
+
+header{
+	background-color:  #DE3163;
+	text-align: center;
+	padding: 5px;
+	height: 450px;
+	background-image: url("coverpic7.jpg")
+
+}
+
+.logo{
+	padding: 5px;
+	width: 150px;
+	height: 150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p.top-liner{
+	font-size: 15px;
+}
+
+/*.header a.main-button{
+	margin-top: 80px;
+	padding: 15px;
+	border-radius: 0.25rem;
+	background: black;
+	background-color: black;
+	color: blue;
+	display: inline-block;
+}*/
+
+header p.footer-text{
+	padding-top: 150px;
+	display: block;
+}
+
+.testimonials{
+	text-align: center;
+}
+
+.reviews{
+	display: inline-block;
+	width: 350px;
+	height: 250px;
+}
+
+footer{
+	color: white;
+	clear: both;
+	text-align: center;
+	padding: 10px;
+	background-color: #30373b;
+
+
+	clear: both;
+	padding: 10px;
+	background-color: #30373b;
+	clear: both;
+	padding: 10px;
+	background-color: #30373b;
+}
